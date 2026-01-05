@@ -41,7 +41,7 @@ If you use this code in your research, please cite:
     @article{Zieglmeier2025_GSDeePC,
       author  = {Sebastian Zieglmeier and Mathias Hudoba de Badyn and Narada D. Warakagoda and Thomas R. Krogstad and Paal Engelstad},
       title   = {Gain-Scheduling Data-Enabled Predictive Control for Nonlinear Systems with Linearized Operating Regions},
-      journal = {arXiv / submitted},
+      journal = {arXiv},
       year    = {2025}
     }
 
